@@ -1,0 +1,11 @@
+Encryption Key: meet me
+String to be Encrypted: meet me
+String to be Decrypted: *!<!<!>!<<!*!<
+
+Encryption Key: the quick brown fox jumps over the lazy dog
+String to be Encrypted: rohan chaudhry
+String to be Decrypted: <>>!<><>>!<!<<<><><>>>>>!<><>><!<<<!<<<>!<!<<<><><>>>>>!>!<<<>>!<!<>>!>>>><
+
+Encryption Key: the quick brown fox jumps over the lazy dog
+String to be Encrypted: daniel snyder
+String to be Decrypted: <<<>>!<<<><><>>>>>!<><>><!<><!<<!<><>><<<!<<<!<>>>!<><>><!>>>><!<<<>>!<<!<>>

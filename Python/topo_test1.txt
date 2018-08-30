@@ -1,0 +1,29 @@
+14
+m
+n
+o
+p
+q
+r
+s
+t
+u
+v
+w
+x
+y
+z
+13
+m n
+m o
+n p
+n q
+o r
+o s
+p t
+p u
+q v
+q w
+r x
+r y
+s z
